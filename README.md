@@ -108,7 +108,7 @@ A full-stack e-commerce application built using the **MERN** stack with seamless
 │ │ │ └── StorageDevices.jsx
 │ │ ├── 📁 store
 │ │ │ └── CartContext.jsx
-│ │ ├── 📁 UI (if exists)
+│ │ ├── 📁 UI 
 │ │ ├── App.jsx
 │ │ ├── main.jsx
 │ │ ├── index.css
@@ -117,6 +117,7 @@ A full-stack e-commerce application built using the **MERN** stack with seamless
 │ ├── package.json
 │ └── index.html
 
+bash```
 -------
 
 ✨ **Note**
