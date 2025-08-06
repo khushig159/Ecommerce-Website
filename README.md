@@ -34,10 +34,15 @@ A full-stack e-commerce application built using the **MERN** stack with seamless
 ---
 
 ## Create .env in Ecommbackend/:
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
-STRIPE_SECRET_KEY=your_stripe_secret_key
+- PORT=5000
+- MONGO_URI=your_mongodb_connection_string
+- JWT_SECRET=your_jwt_secret_key
+- STRIPE_SECRET_KEY=your_stripe_secret_key
+
+✨ **Note**
+This is an initial step towards a fully functional and robust e-commerce website. You can add your own touch and contribute your ideas and efforts.
+
+HAPPY LEARNING 🙂
 
 
 ## 📁 Folder Structure
