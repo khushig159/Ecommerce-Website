@@ -39,6 +39,11 @@ A full-stack e-commerce application built using the **MERN** stack with seamless
 - JWT_SECRET=your_jwt_secret_key
 - STRIPE_SECRET_KEY=your_stripe_secret_key
 
+✨ **Note**
+This is an initial step towards a fully functional and robust e-commerce website. You can add your own touch and contribute your ideas and efforts.
+
+## HAPPY LEARNING 🙂
+
 
 ## 📁 Folder Structure
 
@@ -117,12 +122,8 @@ A full-stack e-commerce application built using the **MERN** stack with seamless
 │ ├── package.json
 │ └── index.html
 
-bash```
--------
 
-✨ **Note**
-This is an initial step towards a fully functional and robust e-commerce website. You can add your own touch and contribute your ideas and efforts.
 
-## HAPPY LEARNING 🙂
+
 
 
