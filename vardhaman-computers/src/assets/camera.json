@@ -1,0 +1,125 @@
+[
+  {
+    "productName": "Securus SS-NC50L5CP-PXF-M5",
+    "productDescription": {
+      "type": "5 MP IP Metal Body Bullet Camera with 8 mm Lens",
+      "features": "High-resolution imaging suitable for outdoor surveillance."
+    },
+    "productPrice": "6999",
+    "productCategory": "Camera",
+    "productImage": [
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670600/37b6aaae-efec-4eac-9718-361b61574008.png"
+    ]
+  },
+  {
+    "productName": "Securus SS-NC15DXLP-CSF-M3(S)",
+    "productDescription": {
+      "type": "3 MP IP Metal Body Color Sense Dome Camera with Audio",
+      "features": "Enhanced color imaging and built-in audio support."
+    },
+    "productPrice": "3999",
+    "productCategory": "Camera",
+    "productImage": [
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670613/fdb34d19-d09f-4943-be35-2b78aea31027.png",
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670625/b8208b2f-76e4-4eae-94e9-866066a9aafe.png",
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670636/dccf0198-ab98-4808-9100-29dcc48cc345.png"
+    ]
+  },
+  {
+    "productName": "Securus SS-NC20L2XP-SEF-M3",
+    "productDescription": {
+      "type": "3 MP IP Metal Body Bullet Camera",
+      "features": "Durable construction with high-definition video capture."
+    },
+    "productPrice": "3599",
+    "productCategory": "Camera",
+    "productImage": [
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670649/1804df07-4369-4274-a8dd-a5db81a462d4.png"
+    ]
+  },
+  {
+    "productName": "Securus SS-15DXP-TPCSD-M2.4",
+    "productDescription": {
+      "type": "2.4 MP Plastic Body Color Sense Dome Camera",
+      "features": "Affordable option with color-enhanced video capabilities"
+    },
+    "productPrice": "1999",
+    "productCategory": "Camera",
+    "productImage": [
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670675/689bc2d2-bd4d-4314-87dc-5e4cd439e9ea.png",
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670679/8de9916b-6f9e-4dfa-8a14-dd2a84ed9ed7.png"
+    ]
+  },
+  {
+    "productName": "Securus SS-NE6XS-M2",
+    "productDescription": {
+      "type": "2 MP IP PTZ Camera with 6X Zoom & 30 Mtr IR",
+      "features": "Pan-Tilt-Zoom functionality with infrared night vision up to 30 meters"
+    },
+    "productPrice": "11999",
+    "productCategory": "Camera",
+    "productImage": [
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670683/fc67acdc-a94e-475c-b555-db88a672a31d.png"
+    ]
+  },
+  {
+    "productName": "Securus SS-15D-TPHD-M5",
+    "productDescription": {
+      "type": "5 MP Plastic Body Dome Camera",
+      "features": "High-resolution dome camera suitable for indoor use"
+    },
+    "productPrice": "1999",
+    "productCategory": "Camera",
+    "productImage": [
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670687/779f42df-3f3c-4f03-ac24-c8d9041f910a.png"
+    ]
+  },
+  {
+    "productName": "Securus SS-NC15DCP-ECF-M2",
+    "productDescription": {
+      "type": "2 MP IP Metal Body Dome Camera",
+      "features": "Robust dome camera with clear video output"
+    },
+    "productPrice": "3799",
+    "productCategory": "Camera",
+    "productImage": [
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670690/29557dbc-8073-4ec2-9ede-f0afce00cf8e.png"
+    ]
+  },
+  {
+    "productName": "Securus SS-NE20XS-M2",
+    "productDescription": {
+      "type": "2.0 MP Outdoor 20X IP Speed Dome Camera",
+      "features": "20x optical zoom with 120-meter IR range and IP66-rated housing"
+    },
+    "productPrice": "42750",
+    "productCategory": "Camera",
+    "productImage": [
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670695/33d2e3c1-3988-4cf8-bde4-a8cd281fdfcf.png"
+    ]
+  },
+  {
+    "productName": "Securus SS-NE25XS-M5",
+    "productDescription": {
+      "type": "6.0 MP 200MTS 25X IP Speed Dome Camera",
+      "features": "High-resolution imaging with 25x zoom and 200-meter IR range"
+    },
+    "productPrice": "38999",
+    "productCategory": "Camera",
+    "productImage": [
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670698/1ecead33-b672-4a7f-a51b-030c15120bb5.png"
+    ]
+  },
+  {
+    "productName": "Securus SS-20L2TP-TPHD-M2.4",
+    "productDescription": {
+      "type": "2.4 MP Plastic Body Bullet Camera",
+      "features": "Budget-friendly bullet camera with night vision capabilities."
+    },
+    "productPrice": "1300",
+    "productCategory": "Camera",
+    "productImage": [
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743670726/ff314482-8bac-4d5f-920d-f12023f46458.png"
+    ]
+  }
+]

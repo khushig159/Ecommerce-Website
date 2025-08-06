@@ -1,0 +1,148 @@
+[
+    {
+      "productName": "Kingston A400 240GB SSD",
+      "productDescription": {
+        "type": "Internal Solid State Drive",
+        "capacity": "240GB",
+        "interface": "SATA 3.0",
+        "readWriteSpeeds": "Up to 500MB/s read, 350MB/s write",
+        "features": "Fast boot times improved system responsiveness, shock and vibration resistant"
+      },
+      "productPrice": "2,500",
+      "productCategory": "Storage Device",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743673498/726d8c41-4f0f-43eb-9d02-913cf47b49fe.png"
+      ]
+    },
+    {
+      "productName": "Kingston DataTraveler Exodia 64GB USB 3.2 Flash Drive",
+      "productDescription": {
+        "type": "USB Flash Drive",
+        "capacity": "64GB",
+        "interface": "USB 3.2 Gen 1",
+        "readWriteSpeeds": "",
+        "features": "Cap-protected USB connector, lightweight design, backward compatible with USB 2.0"
+      },
+      "productPrice": "500",
+      "productCategory": "Storage Device",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743673506/f72aa7dc-515f-4919-bc51-75fdedecc1ce.png"
+      ]
+    },
+    {
+      "productName": "Kingston Canvas Select Plus 128GB microSD Card",
+      "productDescription": {
+        "type": "microSDXC Memory Card",
+        "capacity": "128GB",
+        "interface": "Class 10, UHS-I, U1",
+        "readWriteSpeeds": "",
+        "features": "Durable (waterproof, temperature proof, shock and vibration proof), suitable for Android devices"
+      },
+      "productPrice": "1,200",
+      "productCategory": "Storage Device",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743673572/19aa5d30-4ff6-403b-ab48-2102ca7e87c3.png"
+      ]
+    },
+    {
+      "productName": "Western Digital Blue 1TB HDD",
+      "productDescription": {
+        "type": "Internal Hard Disk Drive",
+        "capacity": "1TB",
+        "interface": "SATA 6 Gb/s",
+        "readWriteSpeeds": "",
+        "features": "Reliable everyday computing, low power consumption"
+      },
+      "productPrice": "3,500",
+      "productCategory": "Storage Device",
+      "productImage": ["https://res.cloudinary.com/dh8itmdjv/image/upload/v1743673579/de526aaa-5fb9-4bca-b58b-f9fe23f28f52.png"]
+    },
+    {
+      "productName": "Western Digital My Passport 4TB External HDD",
+      "productDescription": {
+        "type": "External Hard Disk Drive",
+        "capacity": "4TB",
+        "interface": "USB 3.0",
+        "readWriteSpeeds": "",
+        "features": "Auto backup software, password protection with hardware encryption compact design"
+      },
+      "productPrice": "9,000",
+      "productCategory": "Storage Device",
+      "productImage": ["https://res.cloudinary.com/dh8itmdjv/image/upload/v1743673592/27378678-efe7-43ec-b048-e01423e70d53.png"]
+    },
+    {
+      "productName": "Western Digital Black SN750 500GB NVMe SSD",
+      "productDescription": {
+        "type": "Internal Solid State Drive",
+        "capacity": "500GB",
+        "interface": "PCIe Gen3 8Gb/s up to 4 lanes",
+        "readWriteSpeeds": "Up to 3,470MB/s read, 2,600MB/s write",
+        "features": "Gaming-oriented performance, sleek design with optional heatsink"
+      },
+      "productPrice": "7,500",
+      "productCategory": "Storage Device",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743673597/1c6fdcc7-490b-4f04-9c35-9a39ee4244d1.png"
+      ]
+    },
+    {
+      "productName": "EVM Ensave 1TB External SSD",
+      "productDescription": {
+        "type": "External Solid State Drive",
+        "capacity": "1TB",
+        "interface": "USB 3.1",
+        "readWriteSpeeds": "",
+        "features": "Aluminum body shock resistant, portable design"
+      },
+      "productPrice": "6,749",
+      "productCategory": "Storage Device",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743673600/982ec743-5aa0-404d-8477-920cb1083590.png"
+      ]
+    },
+    {
+      "productName": "EVM Elite Ensave Pro 512GB External SSD",
+      "productDescription": {
+        "type": "External Solid State Drive",
+        "capacity": "512GB",
+        "interface": "USB 3.2 Gen 2x2 Type-C",
+        "readWriteSpeeds": "",
+        "features": "Aluminium alloy body, lightweight (60g), portable"
+      },
+      "productPrice": "4,409",
+      "productCategory": "Storage Device",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743673604/97491a4d-4191-44b1-94e3-83a673d01b6b.png"
+      ]
+    },
+    {
+      "productName": "EVM Ensave 2TB External SSD",
+      "productDescription": {
+        "type": "External Solid State Drive",
+        "capacity": "2TB",
+        "interface": "USB 3.1",
+        "readWriteSpeeds": "",
+        "features": "Aluminum body shock resistant, portable design"
+      },
+      "productPrice": "12,825",
+      "productCategory": "Storage Device",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743673611/215d3a03-a1df-4925-9601-f6947f6f259a.png"
+      ]
+    },
+    {
+      "productName": "EVM 512GB 2.5 inch SATA SSD",
+      "productDescription": {
+        "type": "Internal Solid State Drive",
+        "capacity": "512GB",
+        "interface": "SATA 3.0",
+        "readWriteSpeeds": "Up to 530MB/s read, 440MB/s write",
+        "features": "Low power consumption, enhanced data security, firmware update support"
+      },
+      "productPrice": "3,148",
+      "productCategory": "Storage Device",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743673616/2ce38e5d-2d45-49f1-8bb9-89f6d92184c5.png"
+      ]
+    }
+  ]

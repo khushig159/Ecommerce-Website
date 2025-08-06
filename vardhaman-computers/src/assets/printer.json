@@ -1,0 +1,185 @@
+[
+    {
+      "productName": "HP DeskJet Ink Advantage 2876 Multi Function Inkjet Printer",
+      "productDescription": {
+        "type": "Inkjet Printer",
+        "functions": "Print, Scan, Copy",
+        "printResolution": "",
+        "printSpeed": "Up to 5.5 ppm (Color)",
+        "idealFor": "Home use"
+      },
+      "productPrice": "5,999",
+      "productCategory": "Printer",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668617/9b52d1c0-48c8-4030-a92f-774946ceaab1.png",
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668623/fd1f6a03-9e1e-4ca9-980f-fe551b148276.png",
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668628/306ba082-dfe3-4afd-9ba5-51125b72df6b.png",
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668635/afdc468f-bca4-4c80-ab29-509643e2cf18.png",
+      "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668645/ab722092-ce24-4013-b906-f695d2a97539.png"
+      ]
+    },
+    {
+      "productName": "Canon PIXMA G3780 Multi Function Ink Tank Printer",
+      "productDescription": {
+        "type": "Ink Tank Printer",
+        "functions": "Print, Scan, Copy",
+        "printResolution": "4800×1200 dpi",
+        "printSpeed": "Up to 6 ppm (Color)",
+        "idealFor": "Home use"
+      },
+      "productPrice": "18,999",
+      "productCategory": "Printer",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668653/72ccef2d-0954-4238-847e-1af8131d695f.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668657/f72584bf-cd84-4ff4-909f-bc9bdb447392.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668667/6c453d57-7bd9-46e6-b011-07bdb68c3750.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668674/6e992ed4-62c1-4a5c-b7c0-255e51d1bdb3.png"
+      ]
+    },
+    {
+      "productName": "Canon imageCLASS MF284dw Multi Function Laser Printer",
+      "productDescription": {
+        "type": "Laser Printer",
+        "functions": "Print, Scan, Copy",
+        "printResolution": "",
+        "printSpeed": "Up to 33 ppm (Mono)",
+        "idealFor": "Small business use"
+      },
+      "productPrice": "31,345",
+      "productCategory": "Printer",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668683/107aa49c-d546-4118-8c56-70ee48e971fd.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668692/60d2fb8e-ff64-46b2-8f09-7d335f69caeb.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668704/a7bb6c3e-31f4-4ff8-b0cc-ab42c5c0f774.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668711/04b0fd3b-3dc5-4006-a887-7e7cc1737ea7.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668719/fc97235b-cde7-4b56-bd46-f2413e1fbec4.png"
+      ]
+    },
+    {
+      "productName": "HP LaserJet Pro 4104fdw Multi Function Printer",
+      "productDescription": {
+        "type": "Laser Printer",
+        "functions": "Print, Scan, Copy, Fax",
+        "printResolution": "",
+        "printSpeed": "Up to 40 ppm (Mono)",
+        "idealFor": "Office use"
+      },
+      "productPrice": "56,299",
+      "productCategory": "Printer",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668733/d6dfdad0-c875-47d9-81d1-a183256d274a.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668749/a5ec71d6-e11b-4d35-af1b-f19ea70c6da9.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668763/885fe5da-839d-4385-a3e2-61b6fd3dbe6c.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668769/02b4cfd3-2c3f-4eb2-8e46-1fad5b3d4192.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668787/5b800d02-1d1e-4a68-8dc6-211b0a60094a.png"
+      ]
+    },
+    {
+      "productName": "Epson EcoTank L3560 Multi Function Ink Tank Printer",
+      "productDescription": {
+        "type": "Ink Tank Printer",
+        "functions": "Print, Scan, Copy",
+        "printResolution": "5760×1440 dpi",
+        "printSpeed": "Up to 33 ppm (Mono), 15 ppm (Color)",
+        "idealFor": "Home use"
+      },
+      "productPrice": "15,999",
+      "productCategory": "Printer",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668790/a5204732-3197-4048-b8bb-5bf59953838a.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668793/60ac3ff5-a1a0-4794-a34f-3b0648926b97.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668803/ef31514f-5fa5-48aa-8790-99ebe1a661cf.png"
+      ]
+    },
+    {
+      "productName": "Canon PIXMA G3770 Multi Function Ink Tank Printer",
+      "productDescription": {
+        "type": "Ink Tank Printer",
+        "functions": "Print, Scan, Copy",
+        "printResolution": "",
+        "printSpeed": "Up to 11 ppm (Mono)",
+        "idealFor": "Home use"
+      },
+      "productPrice": "12,999",
+      "productCategory": "Printer",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668810/18ff79fd-2d43-49dd-af6b-699036757b1e.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668825/0fc602b4-7589-4b37-885f-07195cc0d5d0.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668831/16eb7a7c-3490-41b6-8351-153efee7cf1f.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668841/466a8499-34a3-48fe-a1e8-839b015fe2fd.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668845/6b3e98eb-1e58-4078-8453-99f4a73281cc.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668853/6eea9c47-c2e0-4dc0-bb87-4e78c0674ef7.png"
+      ]
+    },
+    {
+      "productName": "Epson EcoTank L3252 All-in-One Ink Tank Printer",
+      "productDescription": {
+        "type": "Ink Tank Printer",
+        "functions": "Print, Scan, Copy",
+        "printResolution": "5760×1440 dpi",
+        "printSpeed": "Up to 33 ppm (Mono)",
+        "idealFor": "Home use"
+      },
+      "productPrice": "13,799",
+      "productCategory": "Printer",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668861/b81ccd2b-ee5b-499a-9b99-511f1fba0533.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668868/d4658259-aa6c-41b5-874e-c81a7534b6b6.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668871/07e37333-9e16-4cb2-b609-1414fbe076ea.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668879/964334d0-2a75-4e67-b307-793645eba2e3.png"
+      ]
+    },
+    {
+      "productName": "HP DeskJet 1112 Single Function Inkjet Printer",
+      "productDescription": {
+        "type": "Inkjet Printer",
+        "functions": "Print",
+        "printResolution": "",
+        "printSpeed": "Up to 20 ppm",
+        "idealFor": "Home use"
+      },
+      "productPrice": "1,999",
+      "productCategory": "Printer",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668886/9d9a62ad-965e-47a8-9589-7b3f7dc369a6.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668890/3bfa12c7-ac81-4b57-88c8-761b334a9aa6.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668918/f1317e0c-b372-41ba-845a-094140a10a28.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668939/d872e108-b756-4729-b905-c37cd005f588.png"
+      ]
+    },
+    {
+      "productName": "Canon PIXMA MG2570S All-in-One Inkjet Printer",
+      "productDescription": {
+        "type": "Inkjet Printer",
+        "functions": "Print, Scan, Copy",
+        "printResolution": "",
+        "printSpeed": "",
+        "idealFor": "Home use"
+      },
+      "productPrice": "3,689",
+      "productCategory": "Printer",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668949/198aff82-5fa2-4c5a-8de8-c277cfd197e4.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668967/f819fbf5-2f0f-416a-8ab0-f96e5440b5d1.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668975/65763047-838d-498e-99bd-886b3e12c8fa.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668984/3ff0f555-9351-4e99-bf25-32c74abd09a6.png"
+      ]
+    },
+    {
+      "productName": "Epson EcoTank L3110 Multi Function Inkjet Printer",
+      "productDescription": {
+        "type": "Inkjet Printer",
+        "functions": "Print, Scan, Copy",
+        "printResolution": "5760×1440 dpi",
+        "printSpeed": "",
+        "idealFor": "Home use"
+      },
+      "productPrice": "11,349",
+      "productCategory": "Printer",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668989/cb6b6065-898f-4c9a-9f11-e84c48edd7e0.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743668994/73af34ec-00e3-4291-941b-c2329a562e84.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743669000/88c53b32-476f-4d44-b9d6-913b320d33eb.png"
+      ]
+    }
+  ]

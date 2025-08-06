@@ -1,0 +1,242 @@
+[
+    {
+      "productName": "DELL Inspiron 14 Intel Core i5 13th Gen 1335U",
+      "productDescription": {
+        "Processor": "13th Gen Intel Core i5-1335U",
+        "Display": "35.56 cm (14 inch) Full HD, 1920x1200 WVA, Anti-glare display",
+        "Graphics": "Intel Iris Xe Graphics",
+        "RAM": "16 GB LPDDR5, 4800 MHz",
+        "Storage": "512 GB SSD",
+        "Weight": "1.59 kg, Aluminium Build",
+        "Ports": "HDMI 1.4, USB Type-C, USB 3.2 Gen 1, MicroSD slot, Audio jack",
+        "Battery Life": "Up to 8 hours, 65W USB-C charger",
+        "Extras": "Dolby Atmos, MS Office Home & Student, Backlit Keyboard",
+        "Description Of The Product": "The Dell Inspiron 14 is designed for seamless multitasking and enhanced productivity. Powered by the 13th Gen Intel Core i5-1335U processor, it ensures smooth performance whether you're working, streaming, or browsing. The 35.56 cm (14-inch) Full HD WVA anti-glare display offers vibrant colors and crisp visuals. Equipped with 16 GB of LPDDR5 RAM and a 512 GB SSD, it ensures faster boot times and app launches. The laptop includes Intel Iris Xe Graphics for an immersive entertainment experience. Weighing just 1.59 kg and housed in a premium aluminum body, it offers portability without compromising durability. With multiple ports including HDMI, USB Type-C, and MicroSD, it supports diverse connectivity options. Enjoy Dolby Atmos speakers for a rich audio experience, and benefit from seamless integration with other Dell and Windows devices."
+      },
+      "productPrice": "67,990",
+      "productCategory": "Laptop",
+      "productImage": ["https://res.cloudinary.com/dh8itmdjv/image/upload/v1743516419/d0d02901-97c4-4944-96b6-968a76cab5e7.png",
+                       "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743516647/a87c6f73-f9f4-45b8-b57d-6e07c864ef96.png",
+                       "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743517039/17b7884a-c699-4c68-80e3-919b765abb28.png",
+                       "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743517180/1b230693-73f4-4188-8b0c-6e07e42d27df.png"
+                      ]
+
+    },
+    {
+      "productName": "DELL Inspiron 15 Intel Core i5 13th Gen 1335U",
+      "productDescription": {
+        "Processor": "13th Gen Intel Core i5-1335U",
+        "Display": "39.62 cm (15.6 inch) Full HD, Anti-glare, WVA Display",
+        "Graphics": "Intel Iris Xe Graphics",
+        "RAM": "8 GB DDR4, 3200 MHz",
+        "Storage": "512 GB SSD",
+        "Weight": "1.68 kg, Sleek Design",
+        "Ports": "RJ45, HDMI, USB-C, USB-A, MicroSD card slot",
+        "Battery Life": "Up to 9 hours, 65W USB-C charger",
+        "Extras": "MS Office Home & Student, Backlit Keyboard",
+        "Description Of The Product": "The Dell Inspiron 15 is a perfect combination of affordability and functionality. Equipped with a 13th Gen Intel Core i5-1335U processor, it delivers reliable performance for daily tasks. The 39.62 cm (15.6-inch) Full HD display with anti-glare technology ensures a comfortable viewing experience. The 8 GB DDR4 RAM, paired with a 512 GB SSD, allows for quick data processing and storage. Intel Iris Xe Graphics enhances graphics performance, making it ideal for casual gaming and content streaming. With an impressive battery life of up to 9 hours, it supports productivity on the move. Its lightweight design, weighing only 1.68 kg, ensures easy portability. Connectivity options include RJ45, HDMI, USB-A, USB-C, and a MicroSD slot. MS Office Home & Student comes pre-installed to ensure productivity from day one."
+      },
+      "productPrice": "58,990",
+      "productCategory": "Laptop",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743597793/d3acf294-a957-488e-818c-dfe33a71ef95.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743597846/edf5227b-c98b-467b-8012-3053da1dbb8f.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743597866/0530d94d-b770-4c91-80b8-8cfc15697976.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743597882/ec78f729-df79-4d25-bd26-c179f71cce59.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743597888/cdab960e-14b7-4830-86d1-ac1e0e0aeca1.png"
+      ]
+    },
+    {
+      "productName": "DELL Vostro 14 Intel Core i5 13th Gen 1335U",
+      "productDescription": {
+        "Processor": "13th Gen Intel Core i5-1335U",
+        "Display": "35.56 cm (14 inch) Full HD, WVA Anti-glare display",
+        "Graphics": "Intel UHD Graphics",
+        "RAM": "16 GB DDR4, 3200 MHz",
+        "Storage": "512 GB SSD",
+        "Weight": "1.48 kg",
+        "Ports": "RJ45, HDMI, USB-C, USB-A, MicroSD, Audio Jack",
+        "Battery Life": "Up to 10 hours, 65W charger",
+        "Extras": "TPM 2.0 Security Chip, MS Office Home & Student",
+        "Description Of The Product": "The Dell Vostro 14 is a business-grade laptop that delivers superior performance and security. It comes with a 13th Gen Intel Core i5-1335U processor, ideal for demanding business applications and multitasking. The 35.56 cm (14-inch) Full HD anti-glare display minimizes eye strain during prolonged work hours. It features 16 GB DDR4 RAM and a 512 GB SSD for lightning-fast performance. Intel UHD Graphics ensures smooth visuals for presentations and video conferencing. Built with a lightweight yet sturdy body weighing just 1.48 kg, it's perfect for professionals on the go. With multiple connectivity options including RJ45, HDMI, USB-C, and USB-A, this laptop offers flexibility. Its battery life lasts up to 10 hours, ensuring uninterrupted productivity. It also comes with TPM 2.0 security and pre-installed MS Office Home & Student."
+      },
+      "productPrice": "64,990",
+      "productCategory": "Laptop",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743597899/574f054c-aca7-45af-b875-629129007d1a.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743597920/401d7869-d5f5-44f0-bb89-b4b057b6db30.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743597940/6a7acdd5-4ba4-4c0b-91e2-9ba7b8affca9.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743597961/d5af487b-b505-4c89-9360-87966c129690.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743597969/44cc65cc-da73-4a3b-8a64-1f890c2261cc.png"
+      ]
+    },
+    {
+      "productName": "DELL Latitude 3420 Intel Core i5 11th Gen",
+      "productDescription": {
+        "Processor": "11th Gen Intel Core i5-1135G7",
+        "Display": "35.56 cm (14 inch) Full HD, Anti-glare display",
+        "Graphics": "Intel Iris Xe Graphics",
+        "RAM": "8 GB DDR4, 3200 MHz",
+        "Storage": "512 GB SSD",
+        "Weight": "1.52 kg",
+        "Ports": "RJ45, HDMI, USB Type-C, MicroSD",
+        "Battery Life": "Up to 9 hours, 65W charger",
+        "Extras": "Fingerprint Reader, MS Office",
+        "Description Of The Product": "The Dell Latitude 3420 is designed for business users who need security, reliability, and flexibility. It is powered by an 11th Gen Intel Core i5-1135G7 processor, providing sufficient speed for multitasking and handling complex applications. The 35.56 cm (14-inch) Full HD anti-glare display offers comfortable viewing in any environment. It features 8 GB DDR4 RAM and 512 GB SSD storage, ensuring seamless data access. Intel Iris Xe Graphics guarantees smooth visuals and supports video conferencing. Weighing 1.52 kg, this laptop is easy to carry, and its robust build makes it ideal for travel. Multiple connectivity options include HDMI, USB-C, and RJ45. The fingerprint reader enhances security, while MS Office comes pre-installed to boost productivity."
+      },
+      "productPrice": "64,490",
+      "productCategory": "Laptop",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598002/d83ba0a9-ffb9-4048-abe2-efd9fe55528b.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598021/3e561fd0-4947-4a64-bafd-c87ac3ca3b34.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598045/35a5a09d-2410-4f20-ab8f-1b898055c57b.png"
+              ]
+    },
+    {
+      "productName": "DELL XPS 13 Intel Core i7 12th Gen",
+      "productDescription": {
+        "Processor": "12th Gen Intel Core i7-1250U",
+        "Display": "34.29 cm (13.4 inch) Full HD+ InfinityEdge Touch Display",
+        "Graphics": "Intel Iris Xe Graphics",
+        "RAM": "16 GB LPDDR5, 5200 MHz",
+        "Storage": "1 TB NVMe SSD",
+        "Weight": "1.17 kg, Ultra-lightweight",
+        "Ports": "Thunderbolt 4, USB-C, Audio Jack",
+        "Battery Life": "Up to 12 hours, 45W USB-C charger",
+        "Extras": "Fingerprint Sensor, Dolby Vision, MS Office",
+        "Description Of The Product": "The Dell XPS 13 is a premium ultrabook with top-tier performance and elegant design. Equipped with a 12th Gen Intel Core i7-1250U processor, it effortlessly handles demanding tasks. Its 34.29 cm (13.4-inch) Full HD+ InfinityEdge display offers stunning visuals with edge-to-edge clarity. Featuring 16 GB LPDDR5 RAM and a 1 TB NVMe SSD, it guarantees blazing-fast performance. Intel Iris Xe Graphics delivers smooth visuals for creative professionals. The lightweight design, weighing only 1.17 kg, makes it highly portable. It offers versatile connectivity with Thunderbolt 4 and USB-C ports. Dolby Vision and Atmos provide exceptional multimedia quality. A fingerprint sensor ensures secure login, and pre-installed MS Office enhances productivity."
+      },
+      "productPrice": "1,12,990",
+      "productCategory": "Laptop",
+      "productImage": [
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598058/f12a5795-388b-4063-bebb-cc774ee69d80.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598073/f17185cb-4570-499c-beb9-c7a9b14cfbca.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598096/de865692-1a24-4f07-9bae-e0e18dba159a.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598113/e84fee7d-400d-4ef4-b853-e7df7a3331f6.png"
+      ]
+    },
+    {
+      "productName": "ASUS Vivobook 14 Intel Core i5 13th Gen 1335U",
+      "productDescription": {
+        "Processor": "13th Gen Intel Core i5-1335U",
+        "Display": "35.56 cm (14 inch) Full HD LED, Anti-glare Display",
+        "Graphics": "Intel Iris Xe Graphics",
+        "RAM": "8 GB DDR4, 3200 MHz",
+        "Storage": "512 GB PCIe SSD",
+        "Weight": "1.4 kg, Slim and Lightweight",
+        "Ports": "HDMI, USB-C, USB-A, Audio Jack, MicroSD",
+        "Battery Life": "Up to 8 hours, 45W Type-C Charger",
+        "Extras": "MS Office Home & Student",
+        "Description Of The Product": "The Asus Vivobook 14 offers an excellent balance of portability and performance. It is powered by a 13th Gen Intel Core i5-1335U processor that handles daily computing tasks efficiently. The 35.56 cm (14-inch) Full HD LED anti-glare display provides clear visuals even in bright conditions. Equipped with 8 GB DDR4 RAM and a 512 GB PCIe SSD, it ensures fast data access and storage. Intel Iris Xe Graphics provides enhanced visual performance. Weighing just 1.4 kg, its lightweight design makes it ideal for users who are always on the move. With ports including HDMI, USB-C, USB-A, and MicroSD, it supports diverse connectivity options. A long-lasting battery with fast charging ensures uninterrupted productivity, while MS Office Home & Student is pre-installed to meet all your document needs."
+      },
+      "productPrice": "57,990",
+      "productCategory": "Laptop",
+      "productImage": [
+        
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598121/de7418fb-53fb-4af9-bd5f-b6248712b13b.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598127/358a51b7-e04d-4c59-baf4-595aa057a52c.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598131/20122313-f5f9-484c-b74b-fb2128605950.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598135/bc8a51f1-a1a6-4bdc-a220-467e3a7a0b7f.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598141/3d95632c-74b5-48ea-b2d8-652e32bbb9d5.png"
+      ]
+    },
+    {
+      "productName": "ASUS ZenBook 14 Intel Core i5 13th Gen 1335U",
+      "productDescription": {
+        "Processor": "13th Gen Intel Core i5-1335U",
+        "Display": "35.56 cm (14 inch) 2.5K OLED, Anti-glare Display",
+        "Graphics": "Intel Iris Xe Graphics",
+        "RAM": "16 GB LPDDR5, 4800 MHz",
+        "Storage": "512 GB SSD",
+        "Weight": "1.39 kg, Slim Aluminium Body",
+        "Ports": "HDMI, USB-C, USB-A, MicroSD",
+        "Battery Life": "Up to 12 hours, Fast Charging",
+        "Extras": "Dolby Atmos, Fingerprint Sensor",
+        "Description Of The Product": "The Asus ZenBook 14 is a premium laptop that blends performance with elegance. Powered by a 13th Gen Intel Core i5-1335U processor, it supports seamless multitasking and high-speed computing. Its 35.56 cm (14-inch) 2.5K OLED display with ultra-slim bezels delivers stunning visuals with rich colors. Featuring 16 GB LPDDR5 RAM and a 512 GB SSD, it ensures lightning-fast data processing. Intel Iris Xe Graphics enhances the visual experience, making it ideal for creatives. Weighing only 1.39 kg, the ultra-slim aluminum body ensures durability without adding bulk. Connectivity options include HDMI, USB-C, and USB-A ports. With a battery that lasts up to 12 hours and fast charging support, it offers long-lasting productivity. Pre-installed MS Office and Dolby Atmos audio further enhance user experience."
+      },
+      "productPrice": "76,990",
+      "productCategory": "Laptop",
+      "productImage": [
+        
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598206/0d4dee20-6b16-4f27-b492-035d322bd46c.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598217/2259ee8e-d361-4bb6-83fd-7f557faa774d.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598231/74d118d4-86ff-44e9-8bd2-29398ce27c59.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598251/ae274ce8-e332-48df-8c02-8c39e38f0b46.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598256/915908c6-6d63-4bd3-9e5a-26dd90821b22.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598287/5ee4854b-28c4-47c2-adf0-0ce788eda2ca.png"
+      ]
+    },
+    {
+      "productName": "ASUS TUF Gaming F15 Intel Core i5 12th Gen",
+      "productDescription": {
+        "Processor": "12th Gen Intel Core i5-12500H",
+        "Display": "39.62 cm (15.6 inch) Full HD 144Hz",
+        "Graphics": "NVIDIA GeForce RTX 3050 (4 GB)",
+        "RAM": "16 GB DDR5, 4800 MHz",
+        "Storage": "512 GB SSD",
+        "Weight": "2.3 kg, Military-grade durability",
+        "Ports": "HDMI, RJ45, USB-C, USB-A",
+        "Battery Life": "Up to 6 hours, 180W Charger",
+        "Extras": "RGB Backlit Keyboard, Dolby Atmos",
+        "Description Of The Product": "The Asus TUF Gaming F15 is built for gamers and performance enthusiasts. Equipped with a 12th Gen Intel Core i5-12500H processor, it ensures excellent gaming performance and multitasking. The 39.62 cm (15.6-inch) Full HD 144Hz display provides fluid visuals for competitive gaming. NVIDIA GeForce RTX 3050 with 4 GB VRAM delivers superior graphics performance. With 16 GB DDR5 RAM and a 512 GB SSD, it offers smooth gameplay and faster load times. Weighing 2.3 kg, it has a military-grade build for enhanced durability. Connectivity options include HDMI, USB-C, and RJ45 ports. The 180W charger ensures long-lasting performance, while Dolby Atmos and an RGB-backlit keyboard enhance the gaming experience."
+      },
+      "productPrice": "68,990",
+      "productCategory": "Laptop",
+      "productImage": [
+        
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598291/6ad0968e-21f7-4289-8193-e04ebc644da1.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598294/fcbb3604-e5ce-4ce5-ad1f-80e4b116f0b8.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598310/3a779419-a504-4195-9a71-5b1a3f930df5.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598325/e507fddd-1470-4a4a-9db6-85ee478ac9b1.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598349/60f879a9-7e49-4f6a-96fa-09257d886873.png"
+      ]
+    },
+    {
+      "productName": "ASUS VivoBook S15 Intel Core i7 13th Gen",
+      "productDescription": {
+        "Processor": "13th Gen Intel Core i7-1355U",
+        "Display": "39.62 cm (15.6 inch) Full HD OLED Display",
+        "Graphics": "Intel Iris Xe Graphics",
+        "RAM": "16 GB DDR4, 3200 MHz",
+        "Storage": "1 TB PCIe SSD",
+        "Weight": "1.8 kg, Premium Build",
+        "Ports": "HDMI, USB-C, USB-A, MicroSD",
+        "Battery Life": "Up to 11 hours, 65W Charger",
+        "Extras": "MS Office, Dolby Audio",
+        "Description Of The Product": "The Asus VivoBook S15 is a powerful and stylish laptop ideal for professionals and students. Powered by a 13th Gen Intel Core i7-1355U processor, it ensures smooth multitasking. Its 39.62 cm (15.6-inch) Full HD OLED display provides sharp and vibrant visuals. Equipped with 16 GB DDR4 RAM and a 1 TB PCIe SSD, it offers blazing-fast speed and ample storage. Intel Iris Xe Graphics handles all graphic-intensive tasks with ease. Weighing 1.8 kg, it strikes a balance between portability and performance. Connectivity options include HDMI, USB-C, and USB-A ports. Its long-lasting battery provides up to 11 hours of uninterrupted usage, and it includes MS Office Home & Student. Dolby Audio ensures a rich multimedia experience."
+      },
+      "productPrice": "82,990",
+      "productCategory": "Laptop",
+      "productImage": [
+        
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598368/80666aa9-548e-43b2-bec0-e8558f215e85.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598387/c7f25132-a7ad-40a0-b5ca-335be7c1913e.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598458/4d10b1a1-cf5e-4c36-85a6-ee7c284a774d.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598463/07e7e1cb-b262-4d56-96dc-7a0b0ecaac2a.png"
+      ]
+    },
+    {
+        "productName": "ASUS ROG Zephyrus G14 AMD Ryzen 7",
+        "productDescription": {
+        "Processor": "AMD Ryzen 7 6800HS",
+        "Display": "35.56 cm (14 inch) QHD 165Hz Display",
+        "Graphics": "NVIDIA GeForce RTX 3060 (6 GB)",
+        "RAM": "16 GB DDR5, 4800 MHz",
+        "Storage": "1 TB SSD",
+        "Weight": "1.72 kg",
+        "Ports": "HDMI, USB-C, USB-A, RJ45",
+        "Battery Life": "Up to 10 hours, 100W USB-C Charger",
+        "Extras": "Dolby Atmos, RGB Keyboard",
+        "Description Of The Product": "The Asus ROG Zephyrus G14 is a high-performance gaming laptop that sets a new benchmark for gamers. [cite: 73, 74] Powered by an AMD Ryzen 7 6800HS processor, it delivers exceptional speed and power efficiency. [cite: 74] The 35.56 cm (14-inch) QHD 165Hz display offers smooth and immersive gaming visuals. [cite: 75] NVIDIA GeForce RTX 3060 with 6 GB VRAM ensures superior graphics for AAA titles. [cite: 76] With 16 GB DDR5 RAM and a 1 TB SSD, the laptop provides ultra-fast load times. [cite: 77] Weighing 1.72 kg, it maintains a slim profile despite its powerful hardware. [cite: 78] Ports include HDMI, USB-C, and RJ45 for enhanced connectivity. [cite: 78] The 100W USB-C charger delivers rapid charging, and Dolby Atmos audio creates an immersive gaming environment."
+        },
+        "productPrice": "1,24,990",
+        "productCategory": "Laptop",
+        "productImage": [
+          
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598468/bac2c75d-7170-4c83-8fcb-b8c6aca4837c.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598472/22f26335-c233-4b76-ae1b-bed323ab97dd.png",
+        "https://res.cloudinary.com/dh8itmdjv/image/upload/v1743598477/b0a9e7fd-a1f1-4c5f-875b-a8b3f3e4e4c9.png"
+
+        ]
+    }
+]
