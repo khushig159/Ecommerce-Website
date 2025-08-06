@@ -11,7 +11,6 @@ import Signin from "./pages/signin";
 import Signup from "./pages/signup";
 import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
-import AdminDashboard from "./pages/AdminDashBoard";
 import Cookies from "js-cookie";
 
 const router = createBrowserRouter([
@@ -141,36 +140,6 @@ const router = createBrowserRouter([
 
       { path: "checkout", element: <Checkout /> },
 
-      {
-        path: "admin",
-        element: <AdminDashboard />,
-        loader: async () => {
-          const token = Cookies.get("refreshtoken");
-          if (!token) {
-            throw json({ message: "Unauthorized access" }, { status: 401 });
-          }
-          // Simulate admin check (replace with actual backend validation)
-          const userResponse = await fetch("http://localhost:8000/user", {
-            headers: { Authorization: `Bearer ${token}` },
-          });
-          if (!userResponse.ok) {
-            throw json({ message: "Could not verify user" }, { status: 403 });
-          }
-          const userData = await userResponse.json();
-          if (!userData.isAdmin) {
-            throw json({ message: "Admin access required" }, { status: 403 });
-          }
-
-          const response = await fetch("http://localhost:8000/orders/");
-          if (!response.ok) {
-            throw json({ message: "Could not fetch orders" }, { status: 500 });
-          }
-          const orderData = await response.json();
-          return {
-            orders: orderData,
-          };
-        },
-      },
     ],
   },
 ]);

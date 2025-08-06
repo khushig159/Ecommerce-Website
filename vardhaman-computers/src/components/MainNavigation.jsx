@@ -18,27 +18,6 @@ export default function MainNavigation() {
   const [activeButton, setActiveButton] = useState(null);
   const [showDetails, setShowDetails] = useState(false);
   const [showhamburger, setshowhamburger] = useState(false);
-  //const [isAdmin, setIsAdmin] = useState(true);
-
-  // useEffect(() => {
-  //   const checkAdmin = async () => {
-  //     const token = Cookies.get("refreshtoken");
-  //     if (token) {
-  //       try {
-  //         const response = await fetch("http://localhost:8000/user", {
-  //           headers: { Authorization: `Bearer ${token}` },
-  //         });
-  //         if (response.ok) {
-  //           const userData = await response.json();
-  //           setIsAdmin(userData.isAdmin || false);
-  //         }
-  //       } catch (error) {
-  //         console.error("Error checking admin status:", error);
-  //       }
-  //     }
-  //   };
-  //   checkAdmin();
-  // }, []);
 
   function handleScrollToSection(sectionId) {
     setActiveButton(sectionId);
@@ -148,7 +127,6 @@ export default function MainNavigation() {
               </button>
             </li>
           </li>
-          {/* {isAdmin && ( */}
             <li>
               <NavLink
                 onClick={() => setActiveButton(null)}
@@ -158,7 +136,6 @@ export default function MainNavigation() {
                 Admin
               </NavLink>
             </li>
-          {/* )} */}
           <li>
             {Cookies.get("refreshtoken") ? (
               <Logout />
