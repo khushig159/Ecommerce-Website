@@ -1,18 +1,18 @@
-# 🛍️ Vardhaman Computers - MERN Stack E-Commerce App
+#  Vardhaman Computers - MERN Stack E-Commerce App
 
 A full-stack e-commerce application built using the **MERN** stack with seamless **Stripe integration**, **JWT-based authentication**, a clean UI, and essential cart & product management features.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-### 🌐 Frontend
+###  Frontend
 - React.js
 - React Router
 - Context API
 - Stripe for payments
 
-### 🖥️ Backend
+###  Backend
 - Node.js
 - Express.js
 - MongoDB with Mongoose
@@ -21,15 +21,15 @@ A full-stack e-commerce application built using the **MERN** stack with seamless
 
 ---
 
-## ✅ Features
+##  Features
 
-- 🔐 JWT-based User Authentication (Sign up & Log in)
-- 🛒 Add/Remove items in Cart
-- 💳 Stripe Integration for Checkout
-- 📦 Product Listing by Categories (e.g. Laptops, CCTV, Printers, Storage Devices)
-- ⚛️ Context API for Global Cart State
-- 🔁 Persistent Session
-- 📱 Fully Responsive Layout
+-  JWT-based User Authentication (Sign up & Log in)
+-  Add/Remove items in Cart
+-  Stripe Integration for Checkout
+-  Product Listing by Categories (e.g. Laptops, CCTV, Printers, Storage Devices)
+-  Context API for Global Cart State
+-  Persistent Session
+-  Fully Responsive Layout
 
 ---
 
@@ -39,37 +39,37 @@ A full-stack e-commerce application built using the **MERN** stack with seamless
 - JWT_SECRET=your_jwt_secret_key
 - STRIPE_SECRET_KEY=your_stripe_secret_key
 
-✨ **Note**
+ **Note**
 This is an initial step towards a fully functional and robust e-commerce website. You can add your own touch and contribute your ideas and efforts.
 
-## HAPPY LEARNING 🙂
+## HAPPY LEARNING 
 
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```bash
-📦 Vardhaman-Computers
-├── 📁 Ecommbackend
-│ ├── 📁 node_modules
-│ ├── 📁 src
-│ │ ├── 📁 controllers
+ Vardhaman-Computers
+├──  Ecommbackend
+│ ├──  node_modules
+│ ├──  src
+│ │ ├──  controllers
 │ │ │ ├── orders.controller.js
 │ │ │ ├── products.controller.js
 │ │ │ └── user.controller.js
-│ │ ├── 📁 db
+│ │ ├──  db
 │ │ │ └── dbconnect.js
-│ │ ├── 📁 middlewares
+│ │ ├──  middlewares
 │ │ │ └── auth.middleware.js
-│ │ ├── 📁 models
+│ │ ├──  models
 │ │ │ ├── orderaddmodel.js
 │ │ │ ├── ordermodel.js
 │ │ │ ├── productmodel.js
 │ │ │ └── usermodel.js
-│ │ ├── 📁 routes
+│ │ ├──  routes
 │ │ │ ├── order.routes.js
 │ │ │ ├── products.routes.js
 │ │ │ └── user.routes.js
-│ │ ├── 📁 utils
+│ │ ├──  utils
 │ │ │ ├── app.js
 │ │ │ ├── constants.js
 │ │ │ └── index.js
@@ -79,13 +79,13 @@ This is an initial step towards a fully functional and robust e-commerce website
 │ ├── package.json
 │ └── Readme.md (you’re here!)
 │
-├── 📁 vardhaman-computers
-│ ├── 📁 dist
-│ ├── 📁 node_modules
-│ ├── 📁 public
-│ ├── 📁 src
-│ │ ├── 📁 assets
-│ │ ├── 📁 components
+├──  vardhaman-computers
+│ ├──  dist
+│ ├──  node_modules
+│ ├──  public
+│ ├──  src
+│ │ ├──  assets
+│ │ ├──  components
 │ │ │ ├── CartItem.jsx
 │ │ │ ├── categoryCart.jsx
 │ │ │ ├── checkout-items.jsx
@@ -97,7 +97,7 @@ This is an initial step towards a fully functional and robust e-commerce website
 │ │ │ ├── pageContent.jsx
 │ │ │ ├── ProductItem.jsx
 │ │ │ └── top-seller.jsx
-│ │ ├── 📁 pages
+│ │ ├──  pages
 │ │ │ ├── AdminDashBoard.jsx (not used)
 │ │ │ ├── Cart.jsx
 │ │ │ ├── cctv.jsx
@@ -111,9 +111,9 @@ This is an initial step towards a fully functional and robust e-commerce website
 │ │ │ ├── signin.jsx
 │ │ │ ├── signup.jsx
 │ │ │ └── StorageDevices.jsx
-│ │ ├── 📁 store
+│ │ ├──  store
 │ │ │ └── CartContext.jsx
-│ │ ├── 📁 UI 
+│ │ ├──  UI 
 │ │ ├── App.jsx
 │ │ ├── main.jsx
 │ │ ├── index.css
